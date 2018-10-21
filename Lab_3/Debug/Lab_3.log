@@ -1,0 +1,5 @@
+﻿  Main_Menu.cpp
+c:\users\b0dun\source\repos\lab_3\main_menu.cpp(303): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "double *"
+c:\users\b0dun\source\repos\lab_3\main_menu.cpp(304): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "double *"
+c:\users\b0dun\source\repos\lab_3\main_menu.cpp(356): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_3.vcxproj -> C:\Users\B0dun\source\repos\Lab_3\Debug\Lab_3.exe
